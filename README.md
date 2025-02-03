@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is DiLo and I'm a Flutter Mobile Developer, from Port Harcourt, Nigeria</h2>
+<h2 align="left">Hi 👋! I'm DiLo and I'm a Flutter Mobile Developer, from Port Harcourt, Nigeria</h2>
 
 ---
 
@@ -33,23 +33,23 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1da1f2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/nwanedilobu">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/nwanedilobu">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1da1f2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
+  </a>
+  <a href="mailto:egbekwunwanedilobu@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/+2348168322467">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-
-## 💼 Experience  
-
-- **Finance Tracking App:** Developed and optimized [WagesFinance](https://play.google.com/store/apps/details?id=com.wages.wages_finance), integrating secure payments and enhancing performance for seamless user experiences.  
-- **Business Management App:** Collaborated with the MyCliq team to build [Sync360](https://play.google.com/store/apps/details?id=com.sync.sink) for SMEs, featuring real-time tracking, notifications, and client management, ensuring high responsiveness.  
-- **Payment App:** Worked closely with the MyCliq team to create and optimize [MyCliq](https://play.google.com/store/apps/details?id=app.mycliq.user), focusing on secure transactions, app optimization, and continuous improvements.  
-
----
 
 ## 📚 Interests  
 - Exploring new programming techniques and tech trends.  
