@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is DiLo and I'm a Flutter Mobile Developer, from Port Harcourt, Nigeria</h2>
 
-###
+---
+
+**Email:** ✉ [egbekwunwanedilobu@gmail.com](mailto:egbekwunwanedilobu@gmail.com)  
+**LinkedIn:** [@nwanedilobu](https://www.linkedin.com/in/nwanedilobu)  
+**X:** [@nwanedilobu](https://x.com/nwanedilobu)  
+**WhatsApp:** [Chat with me](https://wa.me/+2348168322467)
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N-DiLo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -52,4 +59,4 @@
 ---
 
 **Let’s connect!**  
-[WhatsApp](https://wa.me/+2348168322467) | [LinkedIn](https://www.linkedin.com/in/nwanedilobu)
+[WhatsApp](https://wa.me/+2348168322467) | [LinkedIn](https://www.linkedin.com/in/nwanedilobu) | [X](https://x.com/nwanedilobu)
