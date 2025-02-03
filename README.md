@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://github.com/N-DiLo/N-DiLo/raw/main/images/owlGif.gif"  />
 
 ###
 
