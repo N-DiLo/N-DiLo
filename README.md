@@ -1,47 +1,50 @@
-# Hi there 👋, I'm DiLo  
+<h2 align="left">Hi 👋! My name is DiLo and I'm a Flutter Mobile Developer, from Port Harcourt, Nigeria</h2>
 
-**Email:** ✉ [egbekwunwanedilobu@gmail.com](mailto:egbekwunwanedilobu@gmail.com)  
-**LinkedIn:** [@nwanedilobu](https://www.linkedin.com/in/nwanedilobu)  
-**X:** [@nwanedilobu](https://x.com/nwanedilobu)  
-**WhatsApp:** [Chat with me](https://wa.me/+2348168322467)  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-DiLo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-DiLo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 👨‍💻 About Me  
-I’m a **Flutter Mobile Developer** with 3+ years of experience crafting responsive, user-friendly apps. I thrive on transforming ideas into high-quality solutions, excelling in fast-paced environments, and continuously refining my skills to deliver exceptional user experiences.  
+###
 
----
+<img align="right" height="150" src=""  />
 
-## 🛠️ Skills  
+###
 
-### **Programming Languages**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-### **UI/UX Design**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Corel Draw](https://img.shields.io/badge/Corel_Draw-000000?style=flat&logo=corel&logoColor=white)  
+###
 
-### **Mobile Development**  
-- App Optimization  
-- API Integration  
-- State Management  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1da1f2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
 
-### **Soft Skills**  
-- Problem Solving  
-- Team Collaboration  
-- Clear Communication  
-- Customer Support  
+###
 
----
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/N-DiLo//N-DiLo/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 💼 Experience  
 
 - **Finance Tracking App:** Developed and optimized [WagesFinance](https://play.google.com/store/apps/details?id=com.wages.wages_finance), integrating secure payments and enhancing performance for seamless user experiences.  
-- **Business Management App:** Built [Sync360](https://play.google.com/store/apps/details?id=com.sync.sink) or SMEs with MyCliq, featuring real-time tracking, notifications, and client management for high responsiveness.  
-- **Payment Apps:** Worked closely with the MyCliq team to create and optimize [MyCliq User](https://play.google.com/store/apps/details?id=app.mycliq.user) & [MyCliq Merchant](https://play.google.com/store/apps/details?id=app.mycliq.merchant&pcampaignid=web_share) focusing on secure transactions, app optimization, and continuous improvements.  
+- **Business Management App:** Collaborated with the MyCliq team to build [Sync360](https://play.google.com/store/apps/details?id=com.sync.sink) for SMEs, featuring real-time tracking, notifications, and client management, ensuring high responsiveness.  
+- **Payment App:** Worked closely with the MyCliq team to create and optimize [MyCliq](https://play.google.com/store/apps/details?id=app.mycliq.user), focusing on secure transactions, app optimization, and continuous improvements.  
 
 ---
 
