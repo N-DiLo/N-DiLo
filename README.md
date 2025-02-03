@@ -36,10 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/N-DiLo//N-DiLo/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 💼 Experience  
 
 - **Finance Tracking App:** Developed and optimized [WagesFinance](https://play.google.com/store/apps/details?id=com.wages.wages_finance), integrating secure payments and enhancing performance for seamless user experiences.  
